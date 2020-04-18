@@ -1,2 +1,2 @@
 # Digit-Recognizer
-A program to label pictures of handwritten digits fed into it as input
+A program to label pictures of handwritten digits fed into it as input. I've written 2 CNN's to perform the task, one using Keras and the other using PyTorch. Achieved a training accuracy of about 99.96% and a test set accuracy of 99.42% with PyTorch and 99.471% using Keras. Further improvements to improve the test accuracy can be carried out implementing data augmentation which I will carry out in the future. 
